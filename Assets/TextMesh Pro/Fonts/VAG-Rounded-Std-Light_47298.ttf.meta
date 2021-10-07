@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d756a56b0c7d2a34d89d77bbe6533b2d
+timeCreated: 1478070725
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - VAG Rounded Std
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 746ab42e32d9eda458be62c6fc333a49, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
